@@ -20,6 +20,9 @@ End the program
 
 ## Program:
 ```
+developed by: DIVAKAR R
+register number: 212222240026
+
 import numpy as np
 a=np.array([[4,2],[2,4]])
 value,vector=np.linalg.eig(a)
